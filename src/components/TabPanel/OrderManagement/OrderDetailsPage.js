@@ -220,7 +220,7 @@ const getStepContent=(step)=> {
     case 3:
       return `Order is confirmed`;
     case 4:
-      return `The order is completed`;
+      return `The order has been completed`;
     case 5:
       return `Order cancelled`;
     case 6:
